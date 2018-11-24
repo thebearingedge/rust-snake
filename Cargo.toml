@@ -1,0 +1,9 @@
+[package]
+name = "snake"
+version = "0.1.0"
+authors = ["thebearingedge <contact@timdav.is>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.1"
+piston_window = "0.85.0"
